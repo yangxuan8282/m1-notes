@@ -32,7 +32,7 @@ M1 use 147 minutes, 4800u use 237 minutes
 
 ![](imgs/4800u_compile_chromium_debian_buster.png)
 
-and the temperature of 4800u is higher
+and the temperature of 4800u is higher, actually even raspberry pi 4 is hotter than M1
 
 ![](imgs/4800u_compile_chromium_temp.png)
 
@@ -54,4 +54,4 @@ work with Pi-KVM
 
 ![](imgs/with_pikvm.jpg)
 
-the M1 is really fast and quiet 
+M1 cluster as build farm ( maybe OBS worker ) should work better than some arm server, cheap, fast, and much lower power consumption and heat generation
