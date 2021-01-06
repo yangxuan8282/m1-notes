@@ -50,6 +50,10 @@ time consumption is over 6 minutes compile 4.19 kernel
 
 ![](imgs/qemu_failed_to_run_esxi_arm.jpg)
 
+esxi arm in debian virtual machine use qemu ( kind of slow )
+
+![](imgs/esxi_arm_in_qemu.jpg)
+
 work with Pi-KVM
 
 ![](imgs/with_pikvm.jpg)
